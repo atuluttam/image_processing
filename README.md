@@ -1,2 +1,2 @@
 # image_processing
-This repo contains the basic image processing functionalities
+This repo contains image preprocessing functionalities
